@@ -1,5 +1,5 @@
 # My-Netflix-Clone
-It's all mine. Netflix is the world's mother of cenima.
+It's all mine. Netflix is the world's mother of cenima.🎥
 
 A site preview is available here: https://bahaasalha.github.io/My-Netflix-Clone/
 
